@@ -1,0 +1,100 @@
+td{
+    table-layout: auto;
+    text-align:center;
+
+}
+
+.Dev{
+    font-weight: bold;
+    background-color: grey;
+    width: 180px;
+
+}
+
+.Search{
+    font-weight: bold;
+    width: 600px;
+
+}
+
+.postbutton{
+    background-color:grey;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(39, 167, 162);
+  }
+
+
+input[type="text123"] {
+    width: 500px;
+}
+
+.footer{
+    background-color: rgb(27, 132, 136);
+}
+
+.fb{
+    height: 30px;
+    width: 30px; 
+}
+
+.insta{
+    height: 30px;
+    width: 30px; 
+}
+
+.twitter{
+    height: 30px;
+    width: 30px; 
+}
+
+.bottomfooter{
+    text-align: center;
+}
+
+.devdeakin{
+    text-align: center;
+}
+
+table {
+  width: 70%;
+}
+
+.signupbar, .signupdaily, .email {
+    border: 3px solid;
+    font-weight: bold;
+  }
+
+.devde{
+    text-align:center;
+    padding-left: 1cm;
+
+  }
+
+  .dev2{
+    text-align:center;
+    padding-left: 1cm;
+
+  }
+
+  .dev3{
+    text-align:right;
+    padding-left: 1cm;
+
+  }
+
+  .dev4{
+    text-align:left;
+    padding-left: 1cm;
+
+  }
